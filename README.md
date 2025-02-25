@@ -37,7 +37,7 @@
 ```bash
 # GitHub520 Host Start
 140.82.112.25                 alive.github.com
-127.0.0.253                   api.github.com
+140.82.114.5                  api.github.com
 185.199.109.153               assets-cdn.github.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
@@ -54,11 +54,11 @@
 185.199.111.133               desktop.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 140.82.112.3                  gist.github.com
-54.231.132.233                github-cloud.s3.amazonaws.com
-16.182.42.113                 github-com.s3.amazonaws.com
-52.217.228.105                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.215.9                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.39.81                  github-production-user-asset-6210df.s3.amazonaws.com
+52.217.106.12                 github-cloud.s3.amazonaws.com
+54.231.236.41                 github-com.s3.amazonaws.com
+16.15.185.54                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.217.244                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.192.249                github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 140.82.113.3                  github.com
 140.82.114.18                 github.community
@@ -78,14 +78,14 @@
 185.199.111.133               private-user-images.githubusercontent.com
 
 
-# Update time: 2025-02-25T11:37:24+08:00
+# Update time: 2025-02-25T12:27:15+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-02-25T11:37:24+08:00
+该内容会自动定时更新， 数据更新时间：2025-02-25T12:27:15+08:00
 
 #### 2.1.2 修改 hosts 文件
 
